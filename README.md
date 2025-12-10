@@ -12,6 +12,7 @@ Recursos
 - Lanterna e sensor ultrassônico
 
 Arquitetura
+
 O sistema possui três componentes principais:
 
 ESP32-CAM:
