@@ -26,9 +26,9 @@ Python:
 - Interface gráfica com ajuste em tempo real
 
 Arduino:
--Controla 2 servos para posição da câmera
--Controla motores DC para movimento
--PID para movimento suave
+- Controla 2 servos para posição da câmera
+- Controla motores DC para movimento
+- PID para movimento suave
 
 Funcionamento
 - ESP32 captura foto e envia via MQTT
